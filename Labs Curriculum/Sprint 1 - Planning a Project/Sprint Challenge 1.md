@@ -11,31 +11,50 @@
 Hiring managers don't just want to see what you built, they want to see the reasoning behind it. Here are some questions surveyed hiring managers said they would ask about a project:
 
 - "How did you decide what to build?"
+	Our idea comes up from real problem in our environmental, me and my team decided create solution which can help save our planet and help other people stay safe and even make some money also improve this world to better side. 
+
 - "Why is this feature important?"
+	Cause it is global problem, EcoSoap Bank solve global problem in our world, we are helping millions people, we are giving opportunities make some money and important feature save humans lives
+ 
 - "Was this a good choice? What would you do differently if you had to do it over again?"
+	Honestly I would leave everything absolutely the same, idea is great and useful for people.  That's why I come to IT, helping people and solve global problems. Thanks Lambda
 
 We took these questions and cooked them into your labs experience. Please answer the following questions as you would in an interview. Remember, hiring managers care about the **process** and the **why** of building something even more than the what.
 
 ### Questions you need to answer
 
 1. Describe your **process** of breaking a release into user stories.
+	- As an admin I can log in 
+	- As admin I can create new admin accounts 
+	- As admin I can perform CRUD operations on the data types 
+	- As a user I can view the Eco-Soap Ban data as a table
+	- As a user I can view the Eco-Soap Ban data on a map 
 2. Choose a user story. Describe your **reasoning** as you broke down that particular user story into individual tasks.
+	Our reasoning broke down that particular user story into individual tasks follow by documentation and information Eco-Soap Ban company provide us 
+	
 3. How long do you think the above user story will take to complete? Explain your reasoning.
+	Me and my team we created ZOOM conference and had discussion about project and did planing user story all together,
+	and how long discussion took, I believe about 1 work day, (+ -) 
 
 ## Prompt 2 - Communicating Technical Decisions
 
 On the job, you'll be making technical decisions every day. Hiring managers want to see how you make a choice and how you communicate your decisions. Here are some examples of questions they might ask about one of your projects in an interview:
 
 - "What kind of database did you choose and why?"
+	we'll be using the stakeholder's database in production; to test things out locally, we will use End-point which been provided by Eco-Soap Bank 
 - "Why did you use X to do Y?"
+	 I'd guess Lambda would want us to use Postgres most likely
 
 These sorts of questions inform your entire labs experience. You made a few technical decisions this week. We want to see how you would communicate them in an interview.
 
 ### Questions you need to answer
 
 1. Describe a technical decision you made. How did you make that decision?
+	Me and my team did technical decision about what kind of maps integration we have to use for our project, Google Maps or MapBox, Appolo state management or Redux or context API
 2. What are some of the risks given the decision you made?
+	I believe is was no any risks a decision I made, cause all decisions were made based on my experience as a developer  
 3. What challenges do you foresee in using the architecture your team selected?
+	No challenges at all
 
 ## Prompt 3 - Professional Development 
 
