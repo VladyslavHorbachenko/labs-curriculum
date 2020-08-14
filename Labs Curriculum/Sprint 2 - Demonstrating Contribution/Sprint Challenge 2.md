@@ -13,15 +13,19 @@ On the job, you will be responsible for shipping features regularly. Engineers a
 Here are some examples of hiring manager interview questions:
 
 - "Tell me about a project you've built."
+       --Better Professor
 - "What were some technical challenges on that project? How did you overcome them?"
-
+        --New Libraries  
 We took these questions and cooked them into your labs experience. This week, you should have shipped at least one feature. Answer the following questions like you would in an interview:
 
 ### Questions you need to answer
 
 1. Describe what you built this week. Link any relevant pull requests or paste screenshots of code.
+    I have done Registration form, i have done Apollo CLient setUp and studied GraphQl 
 2. How does what you built contribute to the overall product your team is building? What user problems does it help solve?
+    We are help EcoSoap Bank help save lives in Africa, we are make this world better
 3. Describe your delivery process for what you built this week from ideation to breakdown to implementation. What challenges occurred during the delivery process that you didn't foresee?
+    1) Using GrapQl and Apollo client, for now it is big challange, cause i have never done it before.
 
 ## Prompt 2 - Communicating Teamwork
 
@@ -35,8 +39,9 @@ This week we taught you how to pair with other team members. You should have wor
 ### Questions you need to answer
 
 1. How did you work with another team member to deliver a feature this week? What role did you play?
+    We have meet in zoom all the time, and spent hours to deliver a feature, we chat in Slack a lot.
 2. What did you learn this week from working in a team? How are you going to improve your teamwork in the future?
-
+    -The biggest challenge GraphQl and we are together learning 
 ## Prompt 3 - Professional Development Resume Updates
 
 This week you gained more clarity surrounding your individual contributions and what is happening with your project. Use this clarification, along with your understanding of power statements, to update the projects sections of your resume. When adding a project to your resume, you should include power statement bullets describing the project as if it were a job! Without these bullets you're simply sharing the name of a project (and maybe a tech stack) with little to no clarity on what you did on that project.
