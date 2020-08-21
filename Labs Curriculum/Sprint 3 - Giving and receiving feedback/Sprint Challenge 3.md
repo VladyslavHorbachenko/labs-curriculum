@@ -14,15 +14,27 @@ On the job, you will be responsible for giving feedback to your peers. Here are 
 ### Questions you need to answer
 
 1. What's an example of an issue you've had in working with another team member? How have you addressed it?
+
+  -In my opinion an issue was miscommunication during project when we are working on a same page or component, we have different view of this project.
+
+
 2. What are some benefits and challenges to working with the different personalities and work styles on your team? Please provide an example.
+
+	- benefits it is always be around people and thinking all together about the same problem, be part of team, do meetings, discuss something all together and for sure make all together great decisions. 
 
 ## Prompt 2 - Receiving Feedback
 
 ### Questions you need to answer
 
 1. How do your teammates tend to describe you?
+	I got really good feedback, pretty honest, thanks Ben now I know what to improve and what I should do next time for sure.
+
 2. What's the most difficult piece of feedback you've ever received?
+	For me was nothing difficult, feedback was honest.
+
 3. How have you incorporated that feedback into your personal development?
+	In my next project I definitely now what to improve, cause for me very important get feedbacks from team and always improve myself and growth like team member and developer
+	
 
 ## Prompt 3 - Professional Development GitHub Profile
 
