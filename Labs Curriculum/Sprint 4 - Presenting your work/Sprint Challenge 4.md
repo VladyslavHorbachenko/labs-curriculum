@@ -10,9 +10,13 @@
 This week, you spent your inquiries writing sections of a blog post. For your sprint challenge, go through your entire blog post, make any necessary edits, and publish it. Your blog post should include:
 
 - A background section (which you completed on Monday)
+42 Silicon Valley Sofrware developer 
+Lambda School Full stack web developer 
 - A technical challenges section (which you completed on Tuesday)
-- A results and future implications section (which you completed on Wednesday)
+Pick up a new technology GraphQL during Lambda Labs, and Apollo client, was big challenge for me
 
+- A results and future implications section (which you completed on Wednesday)
+Deployed application using Full stack web development ReacJs, NodeJs, Database,CRUD
 Make sure to have interesting subtitles (don't just say "Background") and a consistent writing style. Publish your blog before 11 am and submit a link to the blog as your sprint challenge.
 
 ## Prompt 2 - Share your blog (Optional)
