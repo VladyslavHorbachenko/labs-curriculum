@@ -13,6 +13,7 @@
 Hiring managers don't just want to see what you built, they want to see the reasoning behind it. Here are some questions surveyed hiring managers said they would ask about a project:
 
 - "How did you decide what to build?"
+  
 - "Why is this feature important?"
 - "Was this a good choice? What would you do differently if you had to do it over again?"
 
@@ -21,6 +22,7 @@ We took these questions and cooked them into your labs experience. Please answer
 ### Questions you need to answer
 
 1. Describe your **process** of breaking release 2 into user stories. What changed from release 1? What conversations did you have with your team to determine release 2 features?
+  -Basi
 2. Choose a user story from release 2. Describe your **reasoning** as you broke down that particular user story into individual tasks.
 3. Choose a user story from release 1 that you worked on. How long did it take to ship? Did it take longer than expected? Why / Why not? 
 
@@ -36,6 +38,7 @@ These sorts of questions inform your entire labs experience. You made a few tech
 ### Questions you need to answer
 
 1. Describe a technical decision you made for release 2. How did you make that decision?
+  
 2. What are some of the risks given the decision you made?
 3. Given the architecture you decided on in sprint 1, what challenges arose? Did you foresee these challenges?
 
