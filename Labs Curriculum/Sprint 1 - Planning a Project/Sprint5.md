@@ -21,8 +21,16 @@ We took these questions and cooked them into your labs experience. Please answer
 ### Questions you need to answer
 
 1. Describe your **process** of breaking release 2 into user stories. What changed from release 1? What conversations did you have with your team to determine release 2 features?
+	From  release 2 we have change CSS3 styles, add some more CRUD operations on Data Types
 2. Choose a user story from release 2. Describe your **reasoning** as you broke down that particular user story into individual tasks.
+	CRUD operations on Data Types was added after broke down task 
+	
+	Administrators should be able to add, edit, and delete data types. Here are some examples of the following data we would keep track of:
+	Eco-Soap Bank Hubs (our physical locations), Supplier data, Distribution data
+
 3. Choose a user story from release 1 that you worked on. How long did it take to ship? Did it take longer than expected? Why / Why not? 
+
+	First of all took some time figure out new stack of technology, it took 2 weeks to deliver first release to be working  	
 
 ## Prompt 2 - Communicating Technical Decisions
 
@@ -36,9 +44,13 @@ These sorts of questions inform your entire labs experience. You made a few tech
 ### Questions you need to answer
 
 1. Describe a technical decision you made for release 2. How did you make that decision?
+	technical decision we made what kind of maps we have use to our project based on provided data and format 
 2. What are some of the risks given the decision you made?
+	It was no risks, all decision were made by deep understanding of problem by team
+ 
 3. Given the architecture you decided on in sprint 1, what challenges arose? Did you foresee these challenges?
-
+	Challenge was understood back-end given by EcoSoap Bank, and how Auth API works, and how we can implement to our front end staff.
+ 
 ## Prompt 3 - Professional Development 
 
 Update your Linkedin projects section with more detail as to what you contributed on this project. Link your Linkedin here.
