@@ -24,8 +24,15 @@ We took these questions and cooked them into your labs experience. This week, yo
 ### Questions you need to answer
 
 1. Describe something you have built in the last 6 weeks. Link the relevant pull requests or paste screenshots of code. 
+	Basically for last 6 weeks we build a lot, almost everything done, just need some improvements and Map visualization
+
 2. How does what you built contribute to the overall product your team is building? What user problems does it help solve?
+
+	So far during this project my contribution in this project as a team member was building admin console, map visualization, adding data set styling, design, Auth console etc.
+
 3. Describe your delivery process for what you built this week from ideation to breakdown to implementation. What challenges occurred during the delivery process that you didn't foresee? Explain your technical solution in detail.
+
+	This week was challenged week, this week I have working on Login staff, improving fixing previous mistakes, analyzing new data set and actually improving step by step 	
 
 ## Prompt 2 - Communicating Teamwork
 
@@ -39,7 +46,13 @@ This week we taught you how to pair with other team members. You should have wor
 ### Questions you need to answer
 
 1. How did you work with another team member to deliver a feature in these last 6 weeks? What roles have you played?
+
+	I am pretty sure for far I am doing pretty well, all they way up we are working through ZOOM and discuss every questions we have had, during all this 6 weeks we did quite good progress and keep growing as a team and close to finishing our project
+
+
 2. What did you learn from working in a team these last 6 weeks? How are you going to improve your teamwork in the future?
+
+	Honestly I have learned a lot, I am keep improving my developer skills, team player skills, I am definitely sure all this skills will help me in my future job. Overall Lambda School have teach me working in team and be really open to people 
 
 ## Prompt 3 - Professional Development Resume Updates
 
